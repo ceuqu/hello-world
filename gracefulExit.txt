@@ -5,5 +5,8 @@ I see you Baby...
 ...am I in Branch_it?  or not?
 
 well, you are somewhere...
+<<<<<<< HEAD
 
 ...the struggle is real
+=======
+>>>>>>> 3a7691f7d2a58384ea0296cd0977e4b154f7257f
